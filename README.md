@@ -2,12 +2,6 @@
 
 A visually engaging website featuring parallax scrolling effects to showcase adventurous activities like biking, paragliding, and surfing. This project is built using HTML and CSS and demonstrates modern web design techniques.
 
-## 🖼️ Demo
-
-git add C:\Users\ugale\Videos\Screen Recordings\parallaxEffect.mp4
-git commit -m "parallaxEffect.mp4"
-git push origin main
-
 
 ## ✨ Features
 
