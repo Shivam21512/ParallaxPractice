@@ -4,7 +4,7 @@ A visually engaging website featuring parallax scrolling effects to showcase adv
 
 ## 🖼️ Demo
 
-[Live Demo](#) (Replace `#` with your live site URL if available)
+[Live Demo](http://127.0.0.1:5500/index.html) (Replace `#` with your live site URL if available)
 
 ## ✨ Features
 
