@@ -4,7 +4,8 @@ A visually engaging website featuring parallax scrolling effects to showcase adv
 
 ## 🖼️ Demo
 
-[Live Demo](http://127.0.0.1:5500/index.html) (Replace `#` with your live site URL if available)
+git add C:\Users\ugale\Videos\Screen Recordings\parallaxEffect.mp4
+
 
 ## ✨ Features
 
